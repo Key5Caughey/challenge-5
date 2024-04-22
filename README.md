@@ -12,3 +12,6 @@ this is with three hashtags
 for future refrence this is how we make title and headings
 
 **bold type is with 2 stars beginning of what you want bold and ending of what you want bold**
+
+*italicized writing is with one star in beginning and end, these show up in jupyter notebook*
+*but not in the remote readme file*
